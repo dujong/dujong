@@ -10,7 +10,7 @@
 
 <br><br>
 <h3 align="center"> :deciduous_tree: Tech Stack :deciduous_tree:
-<br><br><br>
+<br><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
 <img src="https://img.shields.io/badge/Opencv-5C3EE8?style=flat-square&logo=Opencv&logoColor=white" /><br>
@@ -25,7 +25,7 @@
 <br><br><br>
   
 <h3 align="center">:large_blue_diamond:I've used:large_blue_diamond:
-<br><br><br>
+<br><br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white" />
