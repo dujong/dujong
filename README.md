@@ -1,12 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=My%20Vision🎨&fontSize=70)
 <br><br>
 <h1>:computer:Jongdu Park : Computer Vision Engineer</h1>
-● 안녕하세요~! 저는 Computer Vision Engineer를 꿈꾸는 박종두입니다.<br>
-● 최근들어 가속화되고 있는 AI의 성장으로 인해서 세상은 달라지고 있습니다.<br>
-● 시대의 변화에 발맞춰 세상의 흐름의 중요한 부분을 맡는 개발자로 성장하고 싶습니다. <br>
-● 새로운 기술의 도전을 즐기며 더 넓은 세상을 경험하고 싶은 개발자입니다. <br>
-● 저는 주로 FASTER RCNN, CNN을 사용하여 신경층을 구성했으며, MMDetection, YOLO 등 다양한 기술을 접해봤습니다.<br>
-● Object Detector, Segmentation 등의 기술을 사용해왔습니다. 
+
+● Hello! My name is Jong-du Park. I'm dreaming of becoming a Computer Vision Engineer.<br>
+● The world is changing with the growth of AI, which is accelerating in recent years.<br>
+● I want to grow up to be a developer who is an important part of the world's flow in line with the changes of the times. <br>
+● I'm a developer who wants to enjoy the challenge of new technology and experience a wider world. <br>
 
 <br><br>
 <h3 align="center"> :deciduous_tree: Tech Stack :deciduous_tree:
