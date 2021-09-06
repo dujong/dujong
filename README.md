@@ -1,12 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=My%20Vision🎨&fontSize=70)
 <br><br>
+<div align="center">
 <h1>:computer:Jongdu Park : Computer Vision Engineer</h1>
 
 ● Hello! My name is Jong-du Park. I'm dreaming of becoming a Computer Vision Engineer.<br>
 ● The world is changing with the growth of AI, which is accelerating in recent years.<br>
 ● I want to grow up to be a developer who is an important part of the world's flow in line with the changes of the times. <br>
 ● I'm a developer who wants to enjoy the challenge of new technology and experience a wider world. <br>
-
+</div>
 <br><br>
 <h3 align="center"> :deciduous_tree: Tech Stack :deciduous_tree:
 <br><br>
