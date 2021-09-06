@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=My%20Vision🎨&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=My%20Vision🎨&fontSize=70)
 <br><br>
 <h1>:computer:Jongdu Park : Computer Vision Engineer</h1>
 ● 안녕하세요~! 저는 Computer Vision Engineer를 꿈꾸는 박종두입니다.<br>
