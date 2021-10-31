@@ -35,4 +35,5 @@
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white" />
   
 <br><br><br>
-My Blog : https://computerengineering-deep.tistory.com/
+My Blog : https://computerengineering-deep.tistory.com/  
+My Portfolio : https://ruddy-year-8f4.notion.site/be5f4da1a5c148839be4c73b517a66cb
