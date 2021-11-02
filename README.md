@@ -35,5 +35,4 @@
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white" />
   
 <br><br><br>
-My Blog : https://computerengineering-deep.tistory.com/  
-My Portfolio : 
+
