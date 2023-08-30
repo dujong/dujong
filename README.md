@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdujong&count_bg=%2342C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<h1>:computer:Jongdu Park : Computer Vision Engineer</h1>
+<h1>:computer:Jongdu Park : Back End Engineer</h1>
 
 ● Hello! My name is Jong-du Park. I'm dreaming of becoming a Computer Vision Engineer.<br>
 ● The world is changing with the growth of AI, which is accelerating in recent years.<br>
