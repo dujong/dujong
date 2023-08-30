@@ -3,25 +3,24 @@
 <div align="center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdujong&count_bg=%2342C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<h1>:computer:Jongdu Park : Back End Engineer</h1>
+<h1>:computer:Jongdu Park : BackEnd Engineer</h1>
 
-● Hello! My name is Jong-du Park. I'm dreaming of becoming a Computer Vision Engineer.<br>
-● The world is changing with the growth of AI, which is accelerating in recent years.<br>
-● I want to grow up to be a developer who is an important part of the world's flow in line with the changes of the times. <br>
-● I'm a developer who wants to enjoy the challenge of new technology and experience a wider world. <br>
+● Hello! My name is Jong-du Park. I'm dreaming of becoming a BackEnd Engineer.<br>
+● I always live with curiosity, and I'm not satisfied at all, and I've entered the path of a developer who provides services from the perspective of using it.<br>
+● I think curiosity, initiative, and patience are the nutrients of the developer, and I am a developer who is not always afraid of new challenges. <br>
+● I'm still a dwarf developer, but I'll be a great developer with sincerity and persistence. Please support my growth together. <br>
 </div>
 <br><br>
 <h3 align="center"> :deciduous_tree: Tech Stack :deciduous_tree:
 <br><br>
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+  <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
-<img src="https://img.shields.io/badge/Opencv-5C3EE8?style=flat-square&logo=Opencv&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+  <br>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white" />
 <br><br><br>
